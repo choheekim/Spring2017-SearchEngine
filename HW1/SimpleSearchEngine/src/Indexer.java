@@ -66,6 +66,8 @@ public class Indexer {
 
     }
 
+
+
     /**
      * Update inverted index.
      * if given term exists in the invertedIndexList, then add docId in postings list and increase dFreq(Document Frequency) by 1.
@@ -120,6 +122,7 @@ public class Indexer {
 
                 if(isStopWord(modifiedWord) || modifiedWord.equals("")) continue;
 
+                updateInvertedIndexList(token.toLowerCase(), docId);
                 updateInvertedIndexList(modifiedWord, docId);
 
             }
