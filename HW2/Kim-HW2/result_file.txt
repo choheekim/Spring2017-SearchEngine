@@ -1,0 +1,28 @@
+nexus like love happy
+Document #2, Score : 1.509
+Document #6, Score : 1.217
+Document #1, Score : .921
+Document #8, Score : .921
+Document #4, Score : .699
+
+asus repair
+Document #8, Score : .864
+Document #3, Score : .796
+Document #1, Score : .126
+
+0(touch screen) fix repair
+Document #8, Score : 2.018
+Document #3, Score : 1.170
+
+1(great tablet) 2(tablet fast)
+Document #2, Score : 1.310
+Document #10, Score : .611
+
+tablet
+Document #4, Score : .202
+Document #2, Score : .155
+Document #3, Score : .155
+Document #6, Score : .155
+Document #9, Score : .155
+Document #10, Score : .155
+
