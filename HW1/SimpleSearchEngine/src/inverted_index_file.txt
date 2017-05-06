@@ -1,0 +1,1848 @@
+------------------------------------------
+#1. 1
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#2. 100
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#3. 2
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#4. 200
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#5. 2013
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#6. 2015
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#7. 5
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#8. 6mos
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#9. 7
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#10. 720p
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#11. able
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#12. about
+Document frequency : 2
+| Document 2 | Document 6 | 
+------------------------------------------
+#13. acknowledge
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#14. acknowledged
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#15. actually
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#16. add
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#17. added
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#18. addition
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#19. additions
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#20. after
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#21. again
+Document frequency : 3
+| Document 2 | Document 3 | Document 8 | 
+------------------------------------------
+#22. ago
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#23. air
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#24. all
+Document frequency : 2
+| Document 2 | Document 3 | 
+------------------------------------------
+#25. allow
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#26. also
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#27. although
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#28. am
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#29. amazing
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#30. amazingly
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#31. america
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#32. american
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#33. amount
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#34. an
+Document frequency : 3
+| Document 2 | Document 8 | Document 10 | 
+------------------------------------------
+#35. android
+Document frequency : 2
+| Document 2 | Document 6 | 
+------------------------------------------
+#36. another
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#37. appreciate
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#38. appreciated
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#39. are
+Document frequency : 2
+| Document 6 | Document 8 | 
+------------------------------------------
+#40. armor
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#41. as
+Document frequency : 4
+| Document 4 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#42. ask
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#43. asking
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#44. asu
+Document frequency : 3
+| Document 1 | Document 3 | Document 8 | 
+------------------------------------------
+#45. asus
+Document frequency : 3
+| Document 1 | Document 3 | Document 8 | 
+------------------------------------------
+#46. automatic
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#47. automatically
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#48. avoid
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#49. awesome
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#50. awful
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#51. back
+Document frequency : 2
+| Document 1 | Document 2 | 
+------------------------------------------
+#52. bad
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#53. battery
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#54. be
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#55. became
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#56. because
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#57. been
+Document frequency : 2
+| Document 4 | Document 8 | 
+------------------------------------------
+#58. before
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#59. being
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#60. big
+Document frequency : 2
+| Document 2 | Document 4 | 
+------------------------------------------
+#61. birthday
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#62. books
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#63. bought
+Document frequency : 3
+| Document 4 | Document 5 | Document 8 | 
+------------------------------------------
+#64. brick
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#65. bricked
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#66. browse
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#67. browsing
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#68. but
+Document frequency : 6
+| Document 1 | Document 2 | Document 3 | Document 4 | Document 9 | Document 10 | 
+------------------------------------------
+#69. button
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#70. buy
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#71. by
+Document frequency : 2
+| Document 8 | Document 9 | 
+------------------------------------------
+#72. camera
+Document frequency : 2
+| Document 2 | Document 6 | 
+------------------------------------------
+#73. can
+Document frequency : 2
+| Document 6 | Document 9 | 
+------------------------------------------
+#74. case
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#75. charge
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#76. charging
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#77. child
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#78. claim
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#79. common
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#80. company
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#81. compare
+Document frequency : 2
+| Document 1 | Document 6 | 
+------------------------------------------
+#82. compared
+Document frequency : 2
+| Document 1 | Document 6 | 
+------------------------------------------
+#83. complete
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#84. completely
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#85. confidence
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#86. control
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#87. controlled
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#88. convenience
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#89. convince
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#90. cooler
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#91. cost
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#92. could
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#93. count
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#94. counter
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#95. counts
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#96. crappy
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#97. cursor
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#98. customer
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#99. customers
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#100. d
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#101. days
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#102. dealings
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#103. dedicated
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#104. defective
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#105. delete
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#106. deserve
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#107. deserves
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#108. device
+Document frequency : 3
+| Document 2 | Document 5 | Document 10 | 
+------------------------------------------
+#109. devicewear
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#110. dice
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#111. difference
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#112. disaster
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#113. do
+Document frequency : 5
+| Document 1 | Document 7 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#114. does
+Document frequency : 2
+| Document 1 | Document 10 | 
+------------------------------------------
+#115. drop
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#116. dropped
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#117. e
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#118. ease
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#119. easily
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#120. ebay
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#121. ebook
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#122. ebooks
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#123. edit
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#124. editing
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#125. elective
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#126. emulate
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#127. emulators
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#128. end
+Document frequency : 2
+| Document 8 | Document 9 | 
+------------------------------------------
+#129. ended
+Document frequency : 2
+| Document 8 | Document 9 | 
+------------------------------------------
+#130. environment
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#131. environments
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#132. estimate
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#133. etc
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#134. even
+Document frequency : 2
+| Document 1 | Document 8 | 
+------------------------------------------
+#135. everything
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#136. expensive
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#137. experienced
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#138. express
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#139. fail
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#140. failed
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#141. fall
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#142. fast
+Document frequency : 2
+| Document 2 | Document 6 | 
+------------------------------------------
+#143. feel
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#144. feeling
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#145. feels
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#146. few
+Document frequency : 2
+| Document 3 | Document 4 | 
+------------------------------------------
+#147. finally
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#148. fine
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#149. first
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#150. five
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#151. fix
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#152. fixed
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#153. flaw
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#154. flawless
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#155. flaws
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#156. for
+Document frequency : 5
+| Document 2 | Document 3 | Document 4 | Document 8 | Document 9 | 
+------------------------------------------
+#157. from
+Document frequency : 3
+| Document 1 | Document 4 | Document 6 | 
+------------------------------------------
+#158. frustrate
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#159. frustrated
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#160. function
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#161. functions
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#162. games
+Document frequency : 2
+| Document 4 | Document 10 | 
+------------------------------------------
+#163. garbage
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#164. gear
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#165. get
+Document frequency : 5
+| Document 2 | Document 3 | Document 4 | Document 8 | Document 9 | 
+------------------------------------------
+#166. getting
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#167. give
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#168. go
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#169. going
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#170. good
+Document frequency : 4
+| Document 2 | Document 4 | Document 5 | Document 8 | 
+------------------------------------------
+#171. google
+Document frequency : 3
+| Document 1 | Document 7 | Document 8 | 
+------------------------------------------
+#172. gopro
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#173. got
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#174. great
+Document frequency : 5
+| Document 1 | Document 2 | Document 3 | Document 6 | Document 10 | 
+------------------------------------------
+#175. guess
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#176. had
+Document frequency : 4
+| Document 3 | Document 4 | Document 8 | Document 9 | 
+------------------------------------------
+#177. happen
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#178. happened
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#179. happy
+Document frequency : 2
+| Document 4 | Document 6 | 
+------------------------------------------
+#180. hard
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#181. hardware
+Document frequency : 2
+| Document 1 | Document 9 | 
+------------------------------------------
+#182. has
+Document frequency : 2
+| Document 1 | Document 5 | 
+------------------------------------------
+#183. hate
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#184. hating
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#185. have
+Document frequency : 5
+| Document 2 | Document 3 | Document 6 | Document 8 | Document 10 | 
+------------------------------------------
+#186. having
+Document frequency : 2
+| Document 2 | Document 3 | 
+------------------------------------------
+#187. he
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#188. hero4
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#189. his
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#190. hold
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#191. hundred
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#192. hundreds
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#193. husband
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#194. i
+Document frequency : 7
+| Document 2 | Document 3 | Document 4 | Document 6 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#195. if
+Document frequency : 4
+| Document 1 | Document 2 | Document 3 | Document 8 | 
+------------------------------------------
+#196. immediately
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#197. in
+Document frequency : 3
+| Document 3 | Document 8 | Document 9 | 
+------------------------------------------
+#198. instead
+Document frequency : 3
+| Document 5 | Document 8 | Document 9 | 
+------------------------------------------
+#199. internet
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#200. ipad
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#201. iphone
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#202. ipod
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#203. issue
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#204. issues
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#205. it
+Document frequency : 8
+| Document 2 | Document 3 | Document 4 | Document 5 | Document 6 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#206. its
+Document frequency : 2
+| Document 2 | Document 9 | 
+------------------------------------------
+#207. jumpy
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#208. junk
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#209. just
+Document frequency : 2
+| Document 4 | Document 8 | 
+------------------------------------------
+#210. justify
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#211. kinemasteri
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#212. know
+Document frequency : 2
+| Document 1 | Document 4 | 
+------------------------------------------
+#213. l
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#214. laptop
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#215. later
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#216. least
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#217. less
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#218. lg
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#219. life
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#220. lighter
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#221. like
+Document frequency : 3
+| Document 1 | Document 2 | Document 8 | 
+------------------------------------------
+#222. liked
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#223. little
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#224. loss
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#225. lot
+Document frequency : 2
+| Document 2 | Document 5 | 
+------------------------------------------
+#226. love
+Document frequency : 2
+| Document 2 | Document 8 | 
+------------------------------------------
+#227. loved
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#228. lower
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#229. m
+Document frequency : 4
+| Document 4 | Document 6 | Document 8 | Document 9 | 
+------------------------------------------
+#230. machine
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#231. mainly
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#232. me
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#233. model
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#234. modern
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#235. money
+Document frequency : 2
+| Document 5 | Document 8 | 
+------------------------------------------
+#236. month
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#237. months
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#238. more
+Document frequency : 2
+| Document 1 | Document 8 | 
+------------------------------------------
+#239. most
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#240. move
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#241. movies
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#242. much
+Document frequency : 3
+| Document 2 | Document 8 | Document 9 | 
+------------------------------------------
+#243. my
+Document frequency : 5
+| Document 2 | Document 4 | Document 5 | Document 6 | Document 8 | 
+------------------------------------------
+#244. myself
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#245. net
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#246. new
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#247. next
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#248. nexus
+Document frequency : 3
+| Document 1 | Document 2 | Document 6 | 
+------------------------------------------
+#249. nice
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#250. no
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#251. not
+Document frequency : 7
+| Document 2 | Document 3 | Document 4 | Document 6 | Document 7 | Document 8 | Document 9 | 
+------------------------------------------
+#252. notice
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#253. now
+Document frequency : 4
+| Document 1 | Document 2 | Document 4 | Document 8 | 
+------------------------------------------
+#254. off
+Document frequency : 2
+| Document 4 | Document 8 | 
+------------------------------------------
+#255. old
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#256. older
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#257. one
+Document frequency : 3
+| Document 1 | Document 6 | Document 8 | 
+------------------------------------------
+#258. ones
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#259. only
+Document frequency : 3
+| Document 1 | Document 2 | Document 6 | 
+------------------------------------------
+#260. onto
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#261. operate
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#262. operating
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#263. option
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#264. options
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#265. or
+Document frequency : 4
+| Document 1 | Document 2 | Document 4 | Document 7 | 
+------------------------------------------
+#266. os
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#267. out
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#268. over
+Document frequency : 2
+| Document 4 | Document 8 | 
+------------------------------------------
+#269. overall
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#270. own
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#271. parts
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#272. pc
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#273. picky
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#274. piece
+Document frequency : 2
+| Document 8 | Document 9 | 
+------------------------------------------
+#275. plus
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#276. point
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#277. port
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#278. powerful
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#279. pre
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#280. prefer
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#281. present
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#282. price
+Document frequency : 2
+| Document 1 | Document 2 | 
+------------------------------------------
+#283. problem
+Document frequency : 3
+| Document 3 | Document 4 | Document 8 | 
+------------------------------------------
+#284. problems
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#285. product
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#286. products
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#287. profile
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#288. properly
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#289. protect
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#290. protector
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#291. purchase
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#292. pushed
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#293. put
+Document frequency : 2
+| Document 2 | Document 7 | 
+------------------------------------------
+#294. quite
+Document frequency : 2
+| Document 5 | Document 6 | 
+------------------------------------------
+#295. react
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#296. reacted
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#297. read
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#298. reader
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#299. realize
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#300. realized
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#301. really
+Document frequency : 3
+| Document 2 | Document 6 | Document 8 | 
+------------------------------------------
+#302. rear
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#303. recommend
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#304. release
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#305. released
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#306. repair
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#307. replace
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#308. replaced
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#309. responsive
+Document frequency : 2
+| Document 5 | Document 6 | 
+------------------------------------------
+#310. responsiveness
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#311. restart
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#312. result
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#313. resulted
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#314. return
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#315. returning
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#316. review
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#317. reviews
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#318. revision
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#319. ridiculous
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#320. ridiculously
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#321. right
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#322. rocks
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#323. roll
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#324. s
+Document frequency : 4
+| Document 3 | Document 4 | Document 5 | Document 10 | 
+------------------------------------------
+#325. same
+Document frequency : 1
+| Document 10 | 
+------------------------------------------
+#326. save
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#327. saved
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#328. screen
+Document frequency : 5
+| Document 1 | Document 2 | Document 3 | Document 6 | Document 8 | 
+------------------------------------------
+#329. see
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#330. seem
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#331. seems
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#332. send
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#333. sending
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#334. sensitive
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#335. several
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#336. shame
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#337. shop
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#338. shopping
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#339. should
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#340. size
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#341. slimport
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#342. slow
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#343. slugginess
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#344. sluggy
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#345. small
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#346. so
+Document frequency : 3
+| Document 1 | Document 2 | Document 9 | 
+------------------------------------------
+#347. software
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#348. some
+Document frequency : 2
+| Document 1 | Document 8 | 
+------------------------------------------
+#349. sometimes
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#350. son
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#351. sony
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#352. soon
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#353. speaker
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#354. speakers
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#355. specially
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#356. star
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#357. stars
+Document frequency : 2
+| Document 1 | Document 3 | 
+------------------------------------------
+#358. start
+Document frequency : 2
+| Document 3 | Document 4 | 
+------------------------------------------
+#359. started
+Document frequency : 2
+| Document 3 | Document 4 | 
+------------------------------------------
+#360. stero
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#361. still
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#362. stock
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#363. storage
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#364. submit
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#365. submitted
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#366. super
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#367. sure
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#368. surprise
+Document frequency : 2
+| Document 2 | Document 4 | 
+------------------------------------------
+#369. surprised
+Document frequency : 2
+| Document 2 | Document 4 | 
+------------------------------------------
+#370. suspension
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#371. system
+Document frequency : 2
+| Document 1 | Document 2 | 
+------------------------------------------
+#372. systems
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#373. t
+Document frequency : 3
+| Document 2 | Document 3 | Document 8 | 
+------------------------------------------
+#374. tablet
+Document frequency : 6
+| Document 2 | Document 3 | Document 4 | Document 6 | Document 9 | Document 10 | 
+------------------------------------------
+#375. tech
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#376. teen
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#377. temperature
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#378. than
+Document frequency : 2
+| Document 2 | Document 8 | 
+------------------------------------------
+#379. that
+Document frequency : 6
+| Document 1 | Document 2 | Document 3 | Document 6 | Document 8 | Document 9 | 
+------------------------------------------
+#380. their
+Document frequency : 2
+| Document 1 | Document 8 | 
+------------------------------------------
+#381. them
+Document frequency : 2
+| Document 7 | Document 8 | 
+------------------------------------------
+#382. then
+Document frequency : 2
+| Document 3 | Document 8 | 
+------------------------------------------
+#383. they
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#384. thing
+Document frequency : 2
+| Document 6 | Document 8 | 
+------------------------------------------
+#385. things
+Document frequency : 2
+| Document 1 | Document 7 | 
+------------------------------------------
+#386. this
+Document frequency : 9
+| Document 1 | Document 2 | Document 3 | Document 4 | Document 5 | Document 6 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#387. thought
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#388. thrill
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#389. thrilled
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#390. throw
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#391. time
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#392. times
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#393. to
+Document frequency : 9
+| Document 1 | Document 2 | Document 3 | Document 4 | Document 6 | Document 7 | Document 8 | Document 9 | Document 10 | 
+------------------------------------------
+#394. too
+Document frequency : 5
+| Document 1 | Document 2 | Document 7 | Document 8 | Document 9 | 
+------------------------------------------
+#395. topnotch
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#396. touch
+Document frequency : 4
+| Document 2 | Document 3 | Document 6 | Document 8 | 
+------------------------------------------
+#397. tough
+Document frequency : 1
+| Document 5 | 
+------------------------------------------
+#398. tried
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#399. trivial
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#400. try
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#401. two
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#402. ugliness
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#403. ugly
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#404. unable
+Document frequency : 1
+| Document 7 | 
+------------------------------------------
+#405. unit
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#406. units
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#407. unlike
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#408. unresponsive
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#409. up
+Document frequency : 2
+| Document 8 | Document 9 | 
+------------------------------------------
+#410. update
+Document frequency : 2
+| Document 1 | Document 8 | 
+------------------------------------------
+#411. updated
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#412. upgrade
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#413. upgraded
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#414. upgrading
+Document frequency : 1
+| Document 6 | 
+------------------------------------------
+#415. use
+Document frequency : 7
+| Document 1 | Document 2 | Document 4 | Document 5 | Document 7 | Document 8 | Document 10 | 
+------------------------------------------
+#416. used
+Document frequency : 3
+| Document 2 | Document 5 | Document 8 | 
+------------------------------------------
+#417. using
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#418. ve
+Document frequency : 2
+| Document 4 | Document 8 | 
+------------------------------------------
+#419. vein
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#420. very
+Document frequency : 2
+| Document 4 | Document 9 | 
+------------------------------------------
+#421. video
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#422. videos
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#423. vimeo
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#424. want
+Document frequency : 4
+| Document 2 | Document 7 | Document 8 | Document 10 | 
+------------------------------------------
+#425. wanted
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#426. warm
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#427. warmer
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#428. warranty
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#429. was
+Document frequency : 4
+| Document 1 | Document 2 | Document 3 | Document 8 | 
+------------------------------------------
+#430. wasn
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#431. waste
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#432. wasted
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#433. watch
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#434. watching
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#435. we
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#436. web
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#437. week
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#438. weeks
+Document frequency : 1
+| Document 9 | 
+------------------------------------------
+#439. weight
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#440. well
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#441. went
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#442. were
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#443. what
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#444. whatsoever
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#445. when
+Document frequency : 3
+| Document 1 | Document 3 | Document 8 | 
+------------------------------------------
+#446. where
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#447. which
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#448. widespread
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#449. will
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#450. willing
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#451. with
+Document frequency : 7
+| Document 1 | Document 2 | Document 3 | Document 4 | Document 5 | Document 6 | Document 8 | 
+------------------------------------------
+#452. won
+Document frequency : 3
+| Document 2 | Document 3 | Document 8 | 
+------------------------------------------
+#453. work
+Document frequency : 2
+| Document 2 | Document 3 | 
+------------------------------------------
+#454. worked
+Document frequency : 1
+| Document 3 | 
+------------------------------------------
+#455. working
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#456. works
+Document frequency : 1
+| Document 2 | 
+------------------------------------------
+#457. worst
+Document frequency : 1
+| Document 1 | 
+------------------------------------------
+#458. would
+Document frequency : 3
+| Document 3 | Document 5 | Document 8 | 
+------------------------------------------
+#459. writing
+Document frequency : 1
+| Document 8 | 
+------------------------------------------
+#460. year
+Document frequency : 3
+| Document 1 | Document 2 | Document 8 | 
+------------------------------------------
+#461. years
+Document frequency : 1
+| Document 4 | 
+------------------------------------------
+#462. you
+Document frequency : 3
+| Document 6 | Document 7 | Document 8 | 
